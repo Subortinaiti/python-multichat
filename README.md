@@ -18,15 +18,15 @@ cd python-multichat
 ## Usage
 Run the server script:
 ```bash
-python server.py
+python _server.py
 ```
 Run the client script in a separate terminal for each client:
 ```bash
-python client.py
+python _client.py
 ```
 When prompted, enter a unique username.
-Type messages and press Enter to send them. The messages will be broadcasted to all connected clients.
-To exit the chat, type [e] and press Enter.
+Type messages and press Enter to send them. The messages will be broadcasted to all connected clients on the same chat.
+To exit the program, type /exit and press Enter, then simply close the window.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ## License
