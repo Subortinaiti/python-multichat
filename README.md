@@ -3,9 +3,13 @@ A python interpretation of a client-server infrastructure of a chat.
 
 ## Features
 Multi-client support
+
 Unique usernames
+
 Broadcast messages to all connected clients
+
 Notify clients when a user joins or leaves the chat
+
 ## Installation
 Clone the repository:
 ```bash
