@@ -34,4 +34,4 @@ To exit the program, type /exit and press Enter, then simply close the window.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
